@@ -1,4 +1,4 @@
-🚀 AI Image Generator: A Static Website for Artificial Intelligence Image Generation
+AI Image Generator: A Static Website for Artificial Intelligence Image Generation
 ==============================================================
 
 📖 Description
